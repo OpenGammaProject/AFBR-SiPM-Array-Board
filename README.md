@@ -2,7 +2,7 @@
 
 Carrier board for the AFBR-S4N44P164M SiPM: a 4 x 4 array of 4 mm silicon photomultipliers by [Broadcom / Avago](https://docs.broadcom.com/doc/AFBR-S4N44P164M-DS-4x4-NUV-MT-Silicon-Photo-Multiplier-Array).
 
-PCB size is 20 x 20 mm and all the passive components on the back side are 0603 or larger in size for hand-soldering. Keep in mind, however, that the SiPM **cannot** be hand-soldered and has to be reflow-soldered instead since the pads are not accessible once the sensor is on the PCB. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/AFBR-SiPM-Array-Board).
+PCB size is 20 x 20 mm and all the passive components on the back side are 0603 or larger in size for hand-soldering. Keep in mind, however, that the SiPM **cannot** be hand-soldered and has to be reflow-soldered instead since the pads are not accessible once the sensor is on the PCB. You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/AFBR-SiPM-Array-Board) (non-affiliated).
 
 <p align="center">
   <img alt="Front Side PCB Rendering" title="Front Side PCB Rendering" src="docs/sipm1.png" height="300px">
