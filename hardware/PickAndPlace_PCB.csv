@@ -1,0 +1,16 @@
+﻿Designator;Footprint;Mid X;Mid Y;Ref X;Ref Y;Pad X;Pad Y;Layer;Rotation;Comment
+A;WIRE-PAD_ROUND-.1;10mm;-2mm;10mm;-2mm;10mm;-2mm;B;180;OUT
+C1;C0805;7mm;-15mm;7mm;-15mm;6mm;-15mm;B;0;10uF
+C2;C0603;7mm;-13mm;7mm;-13mm;6.3mm;-13mm;B;0;100nF
+C3;C0603;7mm;-5.75mm;7mm;-5.75mm;6.3mm;-5.75mm;B;0;100nF
+C4;C0603;7mm;-7.5mm;7mm;-7.5mm;6.3mm;-7.5mm;B;0;100nF
+C5;C0603;7mm;-9.25mm;7mm;-9.25mm;6.3mm;-9.25mm;B;0;100nF
+C6;C0603;7mm;-11mm;7mm;-11mm;6.3mm;-11mm;B;0;100nF
+D1;LGA-32_L16.0-W16.0_AFBR-S4N44P164M;10mm;-10mm;10mm;-10mm;3.46mm;-4.74mm;T;0;AFBR-S4N44P164M
+GND;WIRE-PAD_ROUND-.1;6mm;-18mm;6mm;-18mm;6mm;-18mm;B;180;VCC
+R1;R0603;11.75mm;-5.75mm;11.75mm;-5.75mm;12.5mm;-5.75mm;B;180;49.9Ω
+R2;R0603;11.75mm;-7.5mm;11.75mm;-7.5mm;12.5mm;-7.5mm;B;180;49.9Ω
+R3;R0603;11.75mm;-9.25mm;11.75mm;-9.25mm;12.5mm;-9.25mm;B;180;49.9Ω
+R4;R0603;11.75mm;-11mm;11.75mm;-11mm;12.5mm;-11mm;B;180;49.9Ω
+R5;R0603;13.25mm;-15mm;13.25mm;-15mm;14mm;-15mm;B;180;49.9Ω
+VCC;WIRE-PAD_ROUND-.1;14mm;-18mm;14mm;-18mm;14mm;-18mm;B;180;VCC
