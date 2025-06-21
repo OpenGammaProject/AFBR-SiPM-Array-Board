@@ -13,3 +13,5 @@ PCB size is 20 x 20 mm and all the passive components on the back side are 0603 
 On the front side there is only the sensor itself and all the other parts are on the back. This ensures good optical contact and light-tight sealing. The PCB includes some bias filtering for the SiPM array that must also be soldered for the board to work!
 
 The SiPMs all share a common cathode with an R-C low-pass filter and some bulk decoupling and an additional R-C filter for each group of 4 individual SiPMs. All anodes are also connected together so that the 16 SiPMs act like a single large-size SiPM at the signal output.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
